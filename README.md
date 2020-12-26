@@ -1,5 +1,11 @@
 # myfoodtracker
-A Flask Web App which allows one to keep tract of their diet and accomplish their fitness goals!
+
+Hello Everyone!
+
+This is food tracking web app I built using the Flask framework which allows one to keep track of their diet and accomplish their fitness goals!
+
+#Requirements
+
 
 Implemetes REST api, using Flask as the backend and SQLAlchemy as the database wrapper. 
 
