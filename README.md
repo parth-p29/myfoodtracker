@@ -13,7 +13,10 @@ Requirements
 
 Please check the requirements.txt file for what software you will need up to date to clone this onto your environment.
 
+Technologies
+---------------------
 
-Implemetes REST api, using Flask as the backend and SQLAlchemy as the database wrapper. 
+Prokect implemetes a RESTful API which sends and recieves GET/POST requests from the HTTP server. This is done by using Flask as the backend and SQLAlchemy as the database wrapper. 
 
-Uses HTML, CSS and JS to develop responsive front end for all device types
+The app's frontend is developed in HTML, CSS and JS - ensuring a responsive design so it is compatiable on all device types. 
+
